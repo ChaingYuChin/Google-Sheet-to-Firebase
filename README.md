@@ -1,12 +1,25 @@
-# Google-Sheet-to-Firebase
 
-##這是一個把Google sheet 資料傳到Firebase 的Firestore Database裡面
 
-用到
+### **# Google-Sheet-to-Firebase**  
+---
 
-1.Google Sheet
-2.Google Drive
-3.Firebase
-4.Google Cloud
-5.Apps Script
+### **這是一個把Google Sheet資料傳到Firebase的Firestore Database裡面**  
+
+---
+
+#### **使用到的工具：**  
+
+---
+
+- **1. Google Sheet**  
+
+- **2. Google Drive**  
+
+- **3. Firebase**  
+  
+- **4. Google Cloud**  
+
+- **5. Apps Script**  
+
+---
 
