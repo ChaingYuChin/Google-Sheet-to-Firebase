@@ -1,6 +1,6 @@
 
 
-### Google-Sheet-to-Firebase**  
+### Google-Sheet-to-Firebase
 ---
 
 ### **這是一個把Google Sheet資料傳到Firebase的Firestore Database裡面**  
